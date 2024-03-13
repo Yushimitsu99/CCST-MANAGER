@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{0A68FA7C-8E20-46CB-977B-2F5A7E401FA9}|CCST MANAGER.csproj|c:\\users\\bdmys\\source\\repos\\ccst manager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0A68FA7C-8E20-46CB-977B-2F5A7E401FA9}|CCST MANAGER.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A68FA7C-8E20-46CB-977B-2F5A7E401FA9}|CCST MANAGER.csproj|c:\\users\\bdmys\\source\\repos\\ccst manager\\ccst manager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A68FA7C-8E20-46CB-977B-2F5A7E401FA9}|CCST MANAGER.csproj|solutionrelative:ccst manager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CCST MANAGER",
+              "DocumentMoniker": "C:\\Users\\bdmys\\source\\repos\\CCST MANAGER\\CCST MANAGER.csproj",
+              "RelativeDocumentMoniker": "CCST MANAGER.csproj",
+              "ToolTip": "C:\\Users\\bdmys\\source\\repos\\CCST MANAGER\\CCST MANAGER.csproj",
+              "RelativeToolTip": "CCST MANAGER.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T14:22:54.324Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,

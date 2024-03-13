@@ -18,3 +18,4 @@ C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\refint\CCST MA
 C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\CCST MANAGER.pdb
 C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\CCST MANAGER.genruntimeconfig.cache
 C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\ref\CCST MANAGER.dll
+C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\CCST MANAGER.sourcelink.json
