@@ -1,0 +1,20 @@
+C:\Users\bdmys\source\repos\CCST MANAGER\bin\Debug\net8.0-windows\CCST MANAGER.exe
+C:\Users\bdmys\source\repos\CCST MANAGER\bin\Debug\net8.0-windows\CCST MANAGER.deps.json
+C:\Users\bdmys\source\repos\CCST MANAGER\bin\Debug\net8.0-windows\CCST MANAGER.runtimeconfig.json
+C:\Users\bdmys\source\repos\CCST MANAGER\bin\Debug\net8.0-windows\CCST MANAGER.dll
+C:\Users\bdmys\source\repos\CCST MANAGER\bin\Debug\net8.0-windows\CCST MANAGER.pdb
+C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\CCST MANAGER_MarkupCompile.cache
+C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\CCST MANAGER_MarkupCompile.lref
+C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\CCST MANAGER.g.resources
+C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\CCST MANAGER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\CCST MANAGER.AssemblyInfoInputs.cache
+C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\CCST MANAGER.AssemblyInfo.cs
+C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\CCST MANAGER.csproj.CoreCompileInputs.cache
+C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\CCST MANAGER.dll
+C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\refint\CCST MANAGER.dll
+C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\CCST MANAGER.pdb
+C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\CCST MANAGER.genruntimeconfig.cache
+C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\ref\CCST MANAGER.dll
