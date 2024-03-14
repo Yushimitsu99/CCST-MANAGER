@@ -19,3 +19,13 @@ C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\CCST MANAGER.p
 C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\CCST MANAGER.genruntimeconfig.cache
 C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\ref\CCST MANAGER.dll
 C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\CCST MANAGER.sourcelink.json
+C:\Users\bdmys\source\repos\CCST MANAGER\obj\Debug\net8.0-windows\CCST MANAGER_Content.g.cs
+C:\Users\bdmys\source\repos\CCST MANAGER\bin\Debug\net8.0-windows\Assets\Img\setting.png
+C:\Users\bdmys\source\repos\CCST MANAGER\bin\Debug\net8.0-windows\Assets\Img\GreyDashboardLogo.png
+C:\Users\bdmys\source\repos\CCST MANAGER\bin\Debug\net8.0-windows\Assets\Img\GreyEleveLogo.png
+C:\Users\bdmys\source\repos\CCST MANAGER\bin\Debug\net8.0-windows\Assets\Img\GreyProjectsLogo.png
+C:\Users\bdmys\source\repos\CCST MANAGER\bin\Debug\net8.0-windows\Assets\Img\PurpleClassesLogo.png
+C:\Users\bdmys\source\repos\CCST MANAGER\bin\Debug\net8.0-windows\Assets\Img\PurpleDashboardLogo.png
+C:\Users\bdmys\source\repos\CCST MANAGER\bin\Debug\net8.0-windows\Assets\Img\PurpleEleveLogo.png
+C:\Users\bdmys\source\repos\CCST MANAGER\bin\Debug\net8.0-windows\Assets\Img\PurpleProjectsLogo.png
+C:\Users\bdmys\source\repos\CCST MANAGER\bin\Debug\net8.0-windows\Assets\Img\GreyClasseLogo.png

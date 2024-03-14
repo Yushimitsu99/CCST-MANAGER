@@ -9,4 +9,47 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Assets\Img\GreyClasseLogo.png" />
+    <None Remove="Assets\Img\GreyClassesLogo.png" />
+    <None Remove="Assets\Img\GreyDashboardLogo.png" />
+    <None Remove="Assets\Img\GreyEleveLogo.png" />
+    <None Remove="Assets\Img\GreyProjectsLogo.png" />
+    <None Remove="Assets\Img\PurpleClassesLogo.png" />
+    <None Remove="Assets\Img\PurpleDashboardLogo.png" />
+    <None Remove="Assets\Img\PurpleEleveLogo.png" />
+    <None Remove="Assets\Img\PurpleProjectsLogo.png" />
+    <None Remove="Assets\Img\setting.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Assets\Img\GreyClasseLogo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Img\GreyDashboardLogo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Img\GreyEleveLogo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Img\GreyProjectsLogo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Img\PurpleClassesLogo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Img\PurpleDashboardLogo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Img\PurpleEleveLogo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Img\PurpleProjectsLogo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Img\setting.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>
